@@ -1,0 +1,39 @@
+
+
+div.butSet {
+  float:right;
+  margin-bottom:10px;
+}
+
+td.farAligned {
+  float: right;
+  text-align: right;
+}
+
+td.nearAligned {
+  float: left;
+  text-align: left;
+}
+
+div.nearAligned {
+  text-align: left;
+}
+
+div.rightArrow {
+  height: 30px;
+  width: 30px;
+  background-image: url(arrow7_r.gif);
+}
+
+div.leftArrow {
+  height: 30px;
+  width: 30px;
+  background-image: url(arrow7_l.gif);
+}
+
+span.padNear {
+  padding-left: 15px;
+  vertical-align: top;
+  text-align: left;
+}
+
